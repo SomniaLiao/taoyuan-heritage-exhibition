@@ -28,9 +28,8 @@ npm run preview
 
 - Repo：`somnialiao/taoyuan-heritage-exhibition`（公開）
 - 部署方式：GitHub Actions；推送至 `main` 後自動建置與部署。
-- 預定專案網址：[https://somnialiao.github.io/taoyuan-heritage-exhibition/](https://somnialiao.github.io/taoyuan-heritage-exhibition/)
-
-首次部署尚待 GitHub CLI 重新登入、建立 Repo 並確認 Pages 工作流程成功後，再將上列預定網址更新為已驗證的公開網址。
+- 已部署並驗證的專案網址：[https://somnialiao.github.io/taoyuan-heritage-exhibition/](https://somnialiao.github.io/taoyuan-heritage-exhibition/)
+- 部署狀態：GitHub Actions 工作流程成功；公開頁面回應 HTTP 200。
 
 ## 策展資料與待核事項
 

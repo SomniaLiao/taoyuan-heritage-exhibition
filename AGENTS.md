@@ -23,7 +23,7 @@
 
 - 展名仍為暫定名稱，正式名稱可在內容精煉時再定。
 - 觀展回饋串接暫不處理；目前只提供不傳送、不儲存資料的前端反思互動。網站本體完成及發布後，再討論 Apps Script 欄位與部署。
-- 已決定建立公開 Repo `somnialiao/taoyuan-heritage-exhibition`，Pages 使用專案網址 `https://somnialiao.github.io/taoyuan-heritage-exhibition/`；Vite 部署路徑和 Actions 工作流程已設定，首次部署成功後需確認 README 的網址。
+- 公開 Repo `somnialiao/taoyuan-heritage-exhibition` 已建立並推送；GitHub Pages 專案網址 `https://somnialiao.github.io/taoyuan-heritage-exhibition/` 已部署，Actions 工作流程成功且公開頁面回應 HTTP 200。README 已記錄此網址。
 - 若後續加入歷史照片、影片或其他外部素材，須先確認來源與使用權；目前 MVP 以原創向量示意圖呈現。
 - 1985 年議會原始議事錄、修復工程工作報告、文化資產審議紀錄與修復細部圖說仍待查核。
 
@@ -37,5 +37,5 @@
 - 年表依可查的官方資料與研究論文撰寫；1985 年爭議日期來源有異，正文只標示年份。修復構件最後決策、材料比例與審議理由仍待工作報告核對，不可將推測寫成確定事實。
 - 已建立 Vite、GSAP／ScrollTrigger 前端 MVP。使用者要求先完成網站本體，暫不處理回饋表單串接；末段互動只在當前頁面更新反思文字，不傳送或儲存選擇。
 - Apps Script 預計由使用者在瀏覽器手動建立與部署，不安裝或使用 Clasp；須等使用者要求進入回饋串接階段後再實作。
-- 公開 Repo 名稱和 Pages 專案網址已由使用者確認；準備建立 Repo、推送並確認首次部署，成功後將已驗證網址寫入 README。
+- 公開 Repo `somnialiao/taoyuan-heritage-exhibition` 已建立，網站已推送至 `main`；GitHub Pages 工作流程於 2026-10-20 成功，公開網址已驗證並記錄於 README。
 - 仍待查核：1985 年議會原始議事錄、修復工程工作報告、文化資產審議紀錄與修復細部圖說。網站應保留資料缺口說明。
